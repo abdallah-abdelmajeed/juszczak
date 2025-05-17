@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#e1f5fe"/>
+  <rect x="100" y="300" width="600" height="200" fill="#81d4fa" rx="5" ry="5"/>
+  <path d="M150,300 C200,250 250,270 300,250 C350,230 400,250 450,230 C500,210 550,230 600,210 C650,190 700,210 750,190" stroke="#4caf50" stroke-width="4" fill="none"/>
+  <path d="M150,300 C200,280 250,300 300,280 C350,260 400,280 450,260 C500,240 550,260 600,240 C650,220 700,240 750,220" stroke="#8bc34a" stroke-width="4" fill="none"/>
+  <circle cx="400" cy="150" r="50" fill="#ffeb3b" opacity="0.7"/>
+  <text x="400" y="100" font-family="Arial" font-size="40" text-anchor="middle" fill="#01579b">WETMAN Project</text>
+  <text x="400" y="400" font-family="Arial" font-size="20" text-anchor="middle" fill="#01579b">Central European Wetland Ecosystem Feedbacks</text>
+  <text x="400" y="430" font-family="Arial" font-size="20" text-anchor="middle" fill="#01579b">to Changing Climate</text>
+</svg>

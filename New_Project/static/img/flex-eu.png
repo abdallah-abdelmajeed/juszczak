@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#e8eaf6"/>
+  <rect x="150" y="150" width="500" height="300" fill="#c5cae9" rx="10" ry="10"/>
+  <path d="M200,300 L600,300" stroke="#3f51b5" stroke-width="5" stroke-dasharray="15,10"/>
+  <path d="M400,200 L400,400" stroke="#3f51b5" stroke-width="5" stroke-dasharray="15,10"/>
+  <circle cx="400" cy="300" r="80" fill="#7986cb" opacity="0.7"/>
+  <circle cx="400" cy="300" r="40" fill="#3f51b5" opacity="0.9"/>
+  <path d="M250,200 L300,250 L350,200" stroke="#1a237e" stroke-width="3" fill="none"/>
+  <path d="M450,200 L500,250 L550,200" stroke="#1a237e" stroke-width="3" fill="none"/>
+  <path d="M250,400 L300,350 L350,400" stroke="#1a237e" stroke-width="3" fill="none"/>
+  <path d="M450,400 L500,350 L550,400" stroke="#1a237e" stroke-width="3" fill="none"/>
+  <text x="400" y="100" font-family="Arial" font-size="40" text-anchor="middle" fill="#1a237e">FLEX-EU Project</text>
+  <text x="400" y="500" font-family="Arial" font-size="20" text-anchor="middle" fill="#1a237e">Advanced Hyperspectral Imaging</text>
+</svg>

@@ -6,12 +6,12 @@ project:
     - CNAME           # ensures custom‑domain file lands in gh‑pages root
 
 website:
-  title: "Niko Sirmpilatze"
+  title: "Prof. Dr hab. inż. Radosław Juszczak"
   favicon: /static/img/favicon-32.png
   open-graph: true
-  site-url: "https://www.nikosirmpilatze.com/"
+  site-url: "/"
   image: /static/img/headshot.jpg
-  description: "Niko Sirmpilatze's personal website"
+  description: "Prof. Radosław Juszczak's academic website"
   navbar:
     left:
       - href: index.qmd
@@ -23,12 +23,16 @@ website:
       - href: publications/index.qmd
         text: Publications
     right:
-      - icon: github
-        href: https://github.com/niksirbi
-      - icon: mastodon
-        href: https://neuromatch.social/@niksirbi
-      - text: "{{< iconify simple-icons bluesky >}}"
-        href: https://bsky.app/profile/nikosirmpilatze.com
+      - icon: researchgate
+        href: https://www.researchgate.net/profile/Radoslaw_Juszczak?ev=hdr_xprf&_sg=9NmP1L-8aEvXvLmpQuNkOldwbD3tB8swqdFZ76PiI8uvm6mbA5Y4leRQnMk9m64u
+      - icon: graduation-cap
+        href: https://publons.com/researcher/3298853/radoslaw-juszczak/
+      - icon: user-graduate
+        href: https://scholar.google.com/citations?user=V18nqg0AAAAJ
+      - icon: file-alt
+        href: https://www.scopus.com/authid/detail.uri?authorId=6603564890
+      - icon: envelope-fill
+        href: mailto:radoslaw.juszczak@up.poznan.pl
 
 format:
   html:
