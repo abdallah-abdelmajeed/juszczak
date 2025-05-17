@@ -1,0 +1,101 @@
+/* Dark Mode Styles */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body.dark-mode header,
+body.dark-mode .research-area,
+body.dark-mode .publication,
+body.dark-mode .project,
+body.dark-mode .course,
+body.dark-mode .contact-details {
+    background-color: #1e1e1e;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+body.dark-mode .profile-content h1,
+body.dark-mode .section h2,
+body.dark-mode .research-area h3,
+body.dark-mode .project h3,
+body.dark-mode .course h3 {
+    color: #4d94ff;
+}
+
+body.dark-mode .profile-content .title,
+body.dark-mode .profile-content .affiliation,
+body.dark-mode .publication-authors,
+body.dark-mode .publication-journal,
+body.dark-mode .project-duration,
+body.dark-mode .project-description {
+    color: #b0b0b0;
+}
+
+body.dark-mode nav {
+    background-color: #0d47a1;
+}
+
+body.dark-mode .social-profiles a {
+    background-color: #333;
+    color: #4d94ff;
+}
+
+body.dark-mode .social-profiles a:hover {
+    background-color: #4d94ff;
+    color: #121212;
+}
+
+body.dark-mode a {
+    color: #4d94ff;
+}
+
+body.dark-mode a:hover {
+    color: #77adff;
+}
+
+body.dark-mode .view-more a,
+body.dark-mode .filter-btn.active {
+    background-color: #0d47a1;
+}
+
+body.dark-mode .view-more a:hover,
+body.dark-mode .filter-btn:hover {
+    background-color: #1565c0;
+}
+
+body.dark-mode footer {
+    background-color: #0d47a1;
+}
+
+body.dark-mode .section h2::after {
+    background-color: #4d94ff;
+}
+
+body.dark-mode .filter-btn {
+    background-color: #333;
+    color: #e0e0e0;
+    border: 1px solid #444;
+}
+
+body.dark-mode .gallery-item {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+}
+
+body.dark-mode .news-item {
+    background-color: #1e1e1e;
+    border-bottom: 1px solid #333;
+}
+
+body.dark-mode .news-date {
+    color: #b0b0b0;
+}
+
+body.dark-mode .mode-toggle {
+    background-color: #333;
+    color: #e0e0e0;
+}
+
+body.dark-mode .mode-toggle:hover {
+    background-color: #444;
+}
