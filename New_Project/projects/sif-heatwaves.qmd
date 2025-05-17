@@ -1,0 +1,12 @@
+---
+title: "Impact of heatwaves and droughts on peatland SIF and photosynthesis"
+date: 2021-01-01
+categories: [Research]
+image: ../static/img/sif.png
+---
+
+**Project duration:** 2021-2025  
+**Funding:** National Science Centre of Poland (NCN) 2020/39/O/ST10/00775 PRELUDIUM BIS  
+**Role:** Principal Investigator
+
+This project investigates the impact of heatwaves, droughts, water table fluctuations, and nutrient availability on sun-induced fluorescence (SIF), photosynthesis, and biophysical parameters of peatland vegetation. The research aims to improve understanding of peatland ecosystem responses to climate extremes and nutrient gradients using advanced remote sensing and field measurements.

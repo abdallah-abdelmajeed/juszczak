@@ -28,3 +28,18 @@
   description: "Anatomical fiducials protocol adapted for macaques."
   image: ../static/img/afids-macaca.png
   categories: [Software, Standards]
+- path: /projects/reversal
+  title: ReVersal - Restoring peatlands of the nemoral zone
+  description: Restoring peatlands of the nemoral zone under conditions of varying water supply and quality. Project funded by National Science Centre of Poland (NCN) No. 2021/03/Y/ST10/00093 BiodivRestore (2022-2025). Project contractor, member of the consortium.
+  image: ../static/img/reversal.png
+  categories: [Research]
+- path: /projects/sif-heatwaves
+  title: Impact of heatwaves and droughts on peatland SIF and photosynthesis
+  description: Impact of heatwaves, droughts, water table fluctuations, and nutrient availability on sun-induced fluorescence (SIF), photosynthesis, spectral and biophysical parameters of peatland vegetation. NCN 2020/39/O/ST10/00775 PRELUDIUM BIS (2021-2025). PROJECT PI.
+  image: ../static/img/sif.png
+  categories: [Research]
+- path: /projects/climate-manipulation
+  title: Assessment of warming and drier conditions on peatland vegetation
+  description: Assessment of the impact of warming and drier conditions on photosynthetic efficiency, productivity, spectral characteristics, and morphology of peatland vegetation under controlled in-situ climate manipulation. NCN No. 2020/37/B/ST10/0121 (2021-2025). Project contractor.
+  image: ../static/img/climate-manipulation.png
+  categories: [Research]

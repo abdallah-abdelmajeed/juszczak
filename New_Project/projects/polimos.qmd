@@ -1,0 +1,11 @@
+---
+title: "POLIMOS: Technical Assistance for a Polish Radar and Lidar Mobile Observation System"
+date: 2018-01-01
+categories: [International]
+---
+
+**Duration:** 2018-2019  
+**Funding:** European Space Agency (ESA); RFP/3-14619/16/NL/FF/mg  
+**Role:** Contractor
+
+Technical assistance for the development and deployment of a Polish radar and lidar mobile observation system, supporting advanced atmospheric and environmental monitoring in Poland.

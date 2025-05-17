@@ -14,4 +14,17 @@
   date: '2025-03-10'
   author: Nikoloz Sirmpilatze, Alessandro Felder, Dinora Abdulazhanova et al.
   description: 'My most recent work on a new bird brain atlas'
-  
+- path: https://doi.org/10.1016/j.scitotenv.2022.154294
+  image: ../static/img/reversal.png
+  title: Impact of climate change-induced alterations in peatland vegetation phenology and composition on carbon balance
+  subtitle: Science of The Total Environment
+  date: '2022'
+  author: Antala M., Juszczak R., van der Tol Ch., Rastogi A.
+  description: 'Research on peatland vegetation and carbon balance.'
+- path: https://doi.org/10.3390/rs13132545
+  image: ../static/img/sif.png
+  title: Can Vegetation Indices Serve as Proxies for Potential Sun-Induced Fluorescence (SIF)?
+  subtitle: Remote Sensing
+  date: '2021'
+  author: Bandopadhyay S., Rastogi A., Cogliati S., Rascher U., Gabka M., Juszczak R.
+  description: 'Remote sensing and SIF research.'
