@@ -1,0 +1,43 @@
+name: Publish
+
+# Render presentation with Quarto on all merges to main, all pull requests, 
+# or by manual workflow dispatch. The build job can be used as a CI check 
+# that the presentation still renders successfully.
+# The deploy step only runs on push to main.
+on:
+  push:
+    branches: [main]
+    tags: ['*']
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  linting:
+    # keep your existing schedule safeguard, shortened here for clarity
+    if: (github.event_name == 'schedule' && github.repository_owner == 'niksirbi' && github.ref == 'refs/heads/main') ||
+        (github.event_name != 'schedule')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: neuroinformatics-unit/actions/lint@v2
+  
+  build:
+    name: render and publish
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # push to gh‑pages
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      # 👇 single step that both renders and deploys to the gh‑pages branch
+      - name: Render and publish
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
