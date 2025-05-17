@@ -1,0 +1,30 @@
+- path: https://doi.org/10.7554/elife.74813
+  image: ../static/img/burst-suppression.png
+  title: Spatial signatures of anesthesia-induced burst-suppression differ between
+    primates and rodents
+  subtitle: eLife
+  date: '2022-05-24'
+  author: Nikoloz Sirmpilatze et al.
+  description: 'The main publication coming out of my PhD work'
+- path: https://doi.org/10.1101/2025.03.04.641293
+  image: ../static/img/template-builder.png
+  title: 'Mapping the magnetoreceptive brain: A 3D digital atlas of the migratory
+    bird Eurasian blackcap (<i>Sylvia atricapilla</i>)'
+  subtitle: bioRxiv
+  date: '2025-03-10'
+  author: Nikoloz Sirmpilatze, Alessandro Felder, Dinora Abdulazhanova et al.
+  description: 'My most recent work on a new bird brain atlas'
+- path: 
+  image: 
+  title: Impact of climate change-induced alterations in peatland vegetation phenology and composition on carbon balance
+  subtitle: Science of The Total Environment
+  date: '2022'
+  author: Antala M., Juszczak R., van der Tol Ch., Rastogi A.
+  description: 'Recent work on peatland vegetation and carbon balance.'
+- path: 
+  image: 
+  title: Can Vegetation Indices Serve as Proxies for Potential Sun-Induced Fluorescence (SIF)?
+  subtitle: Remote Sensing
+  date: '2021'
+  author: Bandopadhyay S., Rastogi A., Cogliati S., Rascher U., Gabka M., Juszczak R.
+  description: 'Remote sensing and SIF research.'
