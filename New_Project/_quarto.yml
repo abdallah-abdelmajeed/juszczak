@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: build
+website:
+  title: "Prof. Dr hab. inż. Radosław Juszczak"
+  navbar:
+    left:
+      - text: Home
+        href: index.html
+      - text: Projects
+        href: projects/
+      - text: Publications
+        href: publications/
+      - text: Blog
+        href: blog/
+    right:
+      - icon: github
+        href: https://github.com/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
