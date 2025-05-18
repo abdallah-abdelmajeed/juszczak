@@ -1,0 +1,83 @@
+---
+title: "Prof. Dr hab. inż. Radosław Juszczak"
+toc: false
+---
+
+<img src="1517438196099.jpg" alt="Headshot" width="200" style="border-radius: 50%; float: right; margin-left: 1em; margin-bottom: 1em;" />
+
+[ORCID](https://orcid.org/0000-0002-5212-7383) | [ResearchGate](https://www.researchgate.net/profile/Radoslaw_Juszczak?ev=hdr_xprf&_sg=9NmP1L-8aEvXvLmpQuNkOldwbD3tB8swqdFZ76PiI8uvm6mbA5Y4leRQnMk9m64u) | [Publons](https://publons.com/researcher/3298853/radoslaw-juszczak/) | [Google Scholar](https://scholar.google.com/citations?user=V18nqg0AAAAJ) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603564890) | [Email](mailto:radoslaw.juszczak@up.poznan.pl)
+
+Poznań University of Life Sciences  
+Faculty of Environmental Engineering and Spatial Planning  
+Laboratory of Bioclimatology, Department of Ecology and Environmental Protection  
+Piątkowska 94, 60-649 Poznań, POLAND  
+Tel: +48 61 846 65 52  
+
+### About
+
+Full Professor, environmental scientist specializing in greenhouse gas exchange, carbon and GHG balances, ecosystem responses to climate change, and remote sensing of peatlands. Member of the Polish Academy of Sciences, Committee on Environmental Engineering.
+
+### Research Interests
+
+- Greenhouse gas (CO₂, CH₄, H₂O) exchange between terrestrial ecosystems and the atmosphere
+- Carbon and GHG balances of natural ecosystems
+- Ecosystem responses to climate change
+- Climate manipulation experiments (PI of 2 peatland experiments)
+- Remote sensing of peatlands and Sun Induced Fluorescence
+- Agrometeorology, agrophysics
+- Weather and climate extremes
+
+### Current Projects
+- ReVersal - Restoring peatlands of the nemoral zone under conditions of varying water supply and quality. Project funded by National Science Centre of Poland (NCN) No. 2021/03/Y/ST10/00093 BiodivRestore (2022-2025). Project contractor, member of the consortium.
+- Impact of heatwaves and droughts, water table fluctuations and nutrient availability on sun-induced fluorescence (SIF), photosynthesis, spectral and biophysical parameters of peatland vegetation. Project funded by NCN 2020/39/O/ST10/00775 PRELUDIUM BIS (2021-2025), PROJECT PI.
+- Assessment of the impact of warming and drier conditions on photosynthetic efficiency, productivity, spectral characteristics and morphology of peatland vegetation under the controlled in-situ conditions of climate manipulation experiment. Project funded by NCN No. 2020/37/B/ST10/0121 (2021-2025). Project contractor.
+
+### Past International Projects
+
+1. POLIMOS (2018-2019): Technical Assistance for a Polish Radar and Lidar Mobile Observation System. European Space Agency; ESA; RFP/3-14619/16/NL/FF/mg. Contractor.
+2. Central European Wetland Ecosystem Feedbacks to Changing Climate – Field Scale Manipulation (WETMAN, 2013-2017): Project PI. Polish-Norwegian Research Programme.
+3. FLEX-EU (2014-2017): Technical Assistance for the Deployment of an advanced hyperspectral imaging sensor. ESA Contract No. 4000107143/12/NL/FF/If. Subcontractor (CO2 fluxes).
+4. SWAMP Harrier (2015): EUFAR-Meteo France; Spectrometry of a wetland and modelling of photosynthesis. Project PI.
+5. COST Action EUROSPEC ES0903 (2010-2013): Assessment of biophysical and spectral indices in relation to GHG exchange. Project PI.
+6. COST Action ABBA ES0804 (2010-2013): Assessment of turbulent and energy fluxes in Rzecin peatland. Contractor.
+7. FP7-INGOS (2011-2015): Integrated non-CO2 Greenhouse gas Observation System. Contractor.
+8. FP7-GHG Europe (2010-2013): Greenhouse gas management in European land use systems. Contractor.
+9. FP6-ADAGIO-SSA (2007-2009): Adaptation of agriculture in European regions at environmental risk under climate change. Contractor.
+10. FP6-NITROEUROPE-IP (2006-2011): The nitrogen cycle and its influence on the European greenhouse gas balance. Contractor.
+11. FP6-GREENFLUX-TOK (2006-2010): Micrometeorological techniques for in situ measurements of greenhouse gases exchange. Contractor.
+12. FP6-AGRIDEMA-SSA (2005-2007): Modeling tools and agricultural decision-making. Contractor.
+13. Bilateral project with Cornell University (2000-2003): Environmental Management of Rural Landscape in Central Europe. Contractor.
+14. FP6-CARBOEUROPE-IP (2004-2008): Assessment of the European Terrestrial Carbon Balance. Contractor.
+
+### Past National Projects
+
+1. Sun Induced fluorescence (SIF) and photosynthesis of peatland vegetation under climate manipulation. NCN OPUS_11 (2016-2021). Project PI.
+2. Impact of increased temperature and reduced precipitation on methane emission from peatland. NCN PRELUDIUM_13 (2017-2022). Contractor.
+3. GDLP (2011-2017): Estimation of net CO2 fluxes in forest ecosystems on agricultural land. Contractor.
+4. GDLP (2008-2011): Estimation of net CO2 fluxes in forest ecosystems. Contractor.
+5. MNiSW (2007-2009): Adaptation of agriculture in vulnerable European regions. Contractor.
+6. MNiSW (2006-2011): The nitrogen cycle in the environment and its impact on GHG balance in Europe. Contractor.
+7. MNiSW (2006-2010): Micrometeorological techniques for measuring GHG fluxes in situ. Contractor.
+8. MNiSW (2004-2008): Assessment of terrestrial carbon balance in Europe. Contractor.
+9. KBN (2001-2003): Evapotranspiration process dynamics in agricultural land use. Contractor.
+10. KBN (2003-2006): Digital weather forecasts for agrometeorological protection. Contractor, main author of WISIA decision support system.
+11. KBN (2003-2004): Inventory and valorisation of in-field water reservoirs. Contractor.
+
+### Memberships & Service
+
+- Member, Polish Academy of Sciences; Division IV Technical Sciences; Committee on Environmental Engineering
+- Member of COST Actions: SENSECO (CA17134), OPTIMISE (ES1903), Climmani (ES1308), EUROSPEC (ES0903)
+- Reviewer for numerous international journals and funding agencies
+
+### Selected Publications
+
+1. Antala M., Juszczak R., van der Tol Ch., Rastogi A. (2022). Impact of climate change-induced alterations in peatland vegetation phenology and composition on carbon balance. Science of The Total Environment, 827, 154294. https://doi.org/10.1016/j.scitotenv.2022.154294
+2. Lembrechts, J. J., ... Juszczak R., ... Lenoir, J. (2022). Global maps of soil temperature. Global Change Biology. https://doi.org/10.1111/gcb.16060
+3. Bandopadhyay S., Rastogi A., Cogliati S., Rascher U., Gabka M., Juszczak R. (2021). Can Vegetation Indices Serve as Proxies for Potential Sun-Induced Fluorescence (SIF)? Remote Sensing. 13, 2545. https://doi.org/10.3390/rs13132545
+4. Harenda K., Samson M., Juszczak R., et al. (2021) Impact of atmospheric optical properties on net ecosystem productivity of peatland in Poland. Remote Sensing. 13, 2124. https://doi.org/10.3390/rs13112124
+5. Górecki K., Rastogi A., ... Juszczak R. (2021) Water table depth, experimental warming, and reduced precipitation impact on litter decomposition in a temperate Sphagnum-peatland. Science of the Total Environment, 771, 145452. https://doi.org/10.1016/j.scitotenv.2021.145452
+6. Wang S., Zhang Y., ... Juszczak R. (2020) Warmer spring alleviated the impacts of 2018 European summer heatwave and drought on vegetation photosynthesis. Agriculture and Forest Meteorology, 295, 108195. https://doi.org/10.1016/j.agrformet.2020.108195
+7. Rastogi A., Antala M., ... Juszczak R. (2020) Impact of warming and reduced precipitation on growth and chlorophyll concentration in peat mosses. Scientific Reports 10, 8592. https://doi.org/10.1038/s41598-020-65032-x
+8. Flechard C.R., ... Juszczak R., ... Sutton M. (2020) Carbon/nitrogen interactions in European forests and semi-natural vegetation. BIOGEOSCIENCES, 17(6), 1583-1620. https://doi.org/10.5194/bg-2019-333
+9. Flechard, C.R., ... Juszczak R., ... Butterbach-Bahl K. (2020) Carbon/nitrogen interactions in European forests and semi-natural vegetation. BIOGEOSCIENCES, 17(6), 1621-1654. https://doi.org/10.5194/bg-2019-335
+10. Pinto, F., Celesti, M., ... Juszczak, R. (2020) Dynamics of sun-induced chlorophyll fluorescence and reflectance to detect variations in photosynthetic efficiency. Plant Cell and Environment, 43(7), 1637-1654. https://doi.org/10.1111/pce.13754
