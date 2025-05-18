@@ -38,7 +38,3 @@ format:
     code-block-padding: 0.5em 1em
     code-block-radius: 0.5em
     code-block-line-numbers: true
-resources:
-  - projects.qmd
-  - publications.qmd
-  - blog.qmd
