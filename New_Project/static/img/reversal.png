@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
-  <rect width="800" height="600" fill="#e6f7ff"/>
-  <path d="M100,500 C200,300 300,400 400,300 C500,200 600,300 700,250" stroke="#18bc9c" stroke-width="8" fill="none"/>
-  <path d="M100,450 C200,500 300,450 400,500 C500,550 600,500 700,550" stroke="#3498db" stroke-width="8" fill="none"/>
-  <circle cx="400" cy="200" r="80" fill="#18bc9c" opacity="0.7"/>
-  <rect x="200" y="350" width="400" height="50" fill="#3498db" opacity="0.5"/>
-  <text x="400" y="100" font-family="Arial" font-size="40" text-anchor="middle" fill="#2c3e50">ReVersal Project</text>
-  <text x="400" y="150" font-family="Arial" font-size="20" text-anchor="middle" fill="#2c3e50">Restoring peatlands of the nemoral zone</text>
-</svg>
