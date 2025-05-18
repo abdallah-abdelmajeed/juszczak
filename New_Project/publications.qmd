@@ -4,11 +4,15 @@ title: "Publications"
 
 # Selected Publications
 
-Below are selected recent publications. For the full list, see the homepage or contact Prof. Juszczak.
+Below are selected recent publications by Prof. Juszczak. For the full list, see the homepage or contact directly.
 
-1. Antala M., Juszczak R., van der Tol Ch., Rastogi A. (2022). Impact of climate change-induced alterations in peatland vegetation phenology and composition on carbon balance. *Science of The Total Environment*, 827, 154294. [doi](https://doi.org/10.1016/j.scitotenv.2022.154294)
-2. Lembrechts, J. J., ... Juszczak R., ... Lenoir, J. (2022). Global maps of soil temperature. *Global Change Biology*. [doi](https://doi.org/10.1111/gcb.16060)
-3. Bandopadhyay S., Rastogi A., Cogliati S., Rascher U., Gabka M., Juszczak R. (2021). Can Vegetation Indices Serve as Proxies for Potential Sun-Induced Fluorescence (SIF)? *Remote Sensing*, 13, 2545. [doi](https://doi.org/10.3390/rs13132545)
-4. Harenda K., Samson M., Juszczak R., et al. (2021) Impact of atmospheric optical properties on net ecosystem productivity of peatland in Poland. *Remote Sensing*, 13, 2124. [doi](https://doi.org/10.3390/rs13112124)
-
-...and more. See homepage for full list.
+1. Antala M., Juszczak R., van der Tol Ch., Rastogi A. (2022). Impact of climate change-induced alterations in peatland vegetation phenology and composition on carbon balance. *Science of The Total Environment*, 827, 154294. https://doi.org/10.1016/j.scitotenv.2022.154294
+2. Lembrechts, J. J., ... Juszczak R., ... Lenoir, J. (2022). Global maps of soil temperature. *Global Change Biology*. https://doi.org/10.1111/gcb.16060
+3. Bandopadhyay S., Rastogi A., Cogliati S., Rascher U., Gabka M., Juszczak R. (2021). Can Vegetation Indices Serve as Proxies for Potential Sun-Induced Fluorescence (SIF)? *Remote Sensing*, 13, 2545. https://doi.org/10.3390/rs13132545
+4. Harenda K., Samson M., Juszczak R., et al. (2021) Impact of atmospheric optical properties on net ecosystem productivity of peatland in Poland. *Remote Sensing*, 13, 2124. https://doi.org/10.3390/rs13112124
+5. Górecki K., Rastogi A., ... Juszczak R. (2021) Water table depth, experimental warming, and reduced precipitation impact on litter decomposition in a temperate Sphagnum-peatland. *Science of the Total Environment*, 771, 145452. https://doi.org/10.1016/j.scitotenv.2021.145452
+6. Wang S., Zhang Y., ... Juszczak R. (2020) Warmer spring alleviated the impacts of 2018 European summer heatwave and drought on vegetation photosynthesis. *Agriculture and Forest Meteorology*, 295, 108195. https://doi.org/10.1016/j.agrformet.2020.108195
+7. Rastogi A., Antala M., ... Juszczak R. (2020) Impact of warming and reduced precipitation on growth and chlorophyll concentration in peat mosses. *Scientific Reports* 10, 8592. https://doi.org/10.1038/s41598-020-65032-x
+8. Flechard C.R., ... Juszczak R., ... Sutton M. (2020) Carbon/nitrogen interactions in European forests and semi-natural vegetation. *Biogeosciences*, 17(6), 1583-1620. https://doi.org/10.5194/bg-2019-333
+9. Flechard, C.R., ... Juszczak R., ... Butterbach-Bahl K. (2020) Carbon/nitrogen interactions in European forests and semi-natural vegetation. *Biogeosciences*, 17(6), 1621-1654. https://doi.org/10.5194/bg-2019-335
+10. Pinto, F., Celesti, M., ... Juszczak, R. (2020) Dynamics of sun-induced chlorophyll fluorescence and reflectance to detect variations in photosynthetic efficiency. *Plant Cell and Environment*, 43(7), 1637-1654. https://doi.org/10.1111/pce.13754

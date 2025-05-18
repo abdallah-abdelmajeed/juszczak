@@ -4,15 +4,38 @@ title: "Projects"
 
 # Projects
 
-Below are some of the current and past research projects. For more details, see the homepage or contact Prof. Juszczak.
+Below are current and past research projects led or contributed to by Prof. Juszczak.
 
+## Current Projects
 - **ReVersal** – Restoring peatlands of the nemoral zone under conditions of varying water supply and quality. (2022-2025)
 - **SIF & Heatwaves** – Impact of heatwaves, droughts, water table fluctuations, and nutrient availability on sun-induced fluorescence (SIF), photosynthesis, and biophysical parameters of peatland vegetation. (2021-2025)
 - **Climate Manipulation** – Assessment of the impact of warming and drier conditions on peatland vegetation under climate manipulation experiment. (2021-2025)
 
 ## Past International Projects
-- POLIMOS (2018-2019): Technical Assistance for a Polish Radar and Lidar Mobile Observation System. ESA.
-- WETMAN (2013-2017): Central European Wetland Ecosystem Feedbacks to Changing Climate. Polish-Norwegian Research Programme.
-- FLEX-EU (2014-2017): Advanced hyperspectral imaging sensor deployment. ESA.
+1. POLIMOS (2018-2019): Technical Assistance for a Polish Radar and Lidar Mobile Observation System. ESA.
+2. WETMAN (2013-2017): Central European Wetland Ecosystem Feedbacks to Changing Climate. Polish-Norwegian Research Programme.
+3. FLEX-EU (2014-2017): Advanced hyperspectral imaging sensor deployment. ESA.
+4. SWAMP Harrier (2015): EUFAR-Meteo France; Spectrometry of a wetland and modelling of photosynthesis. Project PI.
+5. COST Action EUROSPEC ES0903 (2010-2013): Assessment of biophysical and spectral indices in relation to GHG exchange. Project PI.
+6. COST Action ABBA ES0804 (2010-2013): Assessment of turbulent and energy fluxes in Rzecin peatland. Contractor.
+7. FP7-INGOS (2011-2015): Integrated non-CO2 Greenhouse gas Observation System. Contractor.
+8. FP7-GHG Europe (2010-2013): Greenhouse gas management in European land use systems. Contractor.
+9. FP6-ADAGIO-SSA (2007-2009): Adaptation of agriculture in European regions at environmental risk under climate change. Contractor.
+10. FP6-NITROEUROPE-IP (2006-2011): The nitrogen cycle and its influence on the European greenhouse gas balance. Contractor.
+11. FP6-GREENFLUX-TOK (2006-2010): Micrometeorological techniques for in situ measurements of greenhouse gases exchange. Contractor.
+12. FP6-AGRIDEMA-SSA (2005-2007): Modeling tools and agricultural decision-making. Contractor.
+13. Bilateral project with Cornell University (2000-2003): Environmental Management of Rural Landscape in Central Europe. Contractor.
+14. FP6-CARBOEUROPE-IP (2004-2008): Assessment of the European Terrestrial Carbon Balance. Contractor.
 
-...and more. See homepage for full list.
+## Past National Projects
+1. Sun Induced fluorescence (SIF) and photosynthesis of peatland vegetation under climate manipulation. NCN OPUS_11 (2016-2021). Project PI.
+2. Impact of increased temperature and reduced precipitation on methane emission from peatland. NCN PRELUDIUM_13 (2017-2022). Contractor.
+3. GDLP (2011-2017): Estimation of net CO2 fluxes in forest ecosystems on agricultural land. Contractor.
+4. GDLP (2008-2011): Estimation of net CO2 fluxes in forest ecosystems. Contractor.
+5. MNiSW (2007-2009): Adaptation of agriculture in vulnerable European regions. Contractor.
+6. MNiSW (2006-2011): The nitrogen cycle in the environment and its impact on GHG balance in Europe. Contractor.
+7. MNiSW (2006-2010): Micrometeorological techniques for measuring GHG fluxes in situ. Contractor.
+8. MNiSW (2004-2008): Assessment of terrestrial carbon balance in Europe. Contractor.
+9. KBN (2001-2003): Evapotranspiration process dynamics in agricultural land use. Contractor.
+10. KBN (2003-2006): Digital weather forecasts for agrometeorological protection. Contractor, main author of WISIA decision support system.
+11. KBN (2003-2004): Inventory and valorisation of in-field water reservoirs. Contractor.
