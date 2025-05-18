@@ -8,15 +8,37 @@ website:
       - text: Home
         href: index.html
       - text: Projects
-        href: projects/
+        href: projects.html
       - text: Publications
-        href: publications/
+        href: publications.html
       - text: Blog
-        href: blog/
+        href: blog.html
     right:
       - icon: github
         href: https://github.com/
+  page-navigation: true
+  favicon: favicon.svg
+  search: true
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - darkly
     css: styles.css
+    toc: true
+    smooth-scroll: true
+    mainfont: 'Segoe UI, Arial, sans-serif'
+    fontsize: 1.1em
+    linkcolor: '#006699'
+    backgroundcolor: '#f8f9fa'
+    highlight-style: github
+    code-block-bg: '#f4f4f4'
+    code-block-border-left: '#006699'
+    code-block-font-size: 0.95em
+    code-block-padding: 0.5em 1em
+    code-block-radius: 0.5em
+    code-block-line-numbers: true
+resources:
+  - projects.qmd
+  - publications.qmd
+  - blog.qmd

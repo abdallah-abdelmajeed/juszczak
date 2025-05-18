@@ -1,0 +1,18 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+Below are some of the current and past research projects. For more details, see the homepage or contact Prof. Juszczak.
+
+- **ReVersal** – Restoring peatlands of the nemoral zone under conditions of varying water supply and quality. (2022-2025)
+- **SIF & Heatwaves** – Impact of heatwaves, droughts, water table fluctuations, and nutrient availability on sun-induced fluorescence (SIF), photosynthesis, and biophysical parameters of peatland vegetation. (2021-2025)
+- **Climate Manipulation** – Assessment of the impact of warming and drier conditions on peatland vegetation under climate manipulation experiment. (2021-2025)
+
+## Past International Projects
+- POLIMOS (2018-2019): Technical Assistance for a Polish Radar and Lidar Mobile Observation System. ESA.
+- WETMAN (2013-2017): Central European Wetland Ecosystem Feedbacks to Changing Climate. Polish-Norwegian Research Programme.
+- FLEX-EU (2014-2017): Advanced hyperspectral imaging sensor deployment. ESA.
+
+...and more. See homepage for full list.

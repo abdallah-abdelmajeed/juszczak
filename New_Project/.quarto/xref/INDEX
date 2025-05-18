@@ -185,5 +185,14 @@
   },
   "hugo-site/content/teaching/python/index.qmd": {
     "index.html": "16bc9008"
+  },
+  "blog.qmd": {
+    "blog.html": "ce5938fa"
+  },
+  "projects.qmd": {
+    "projects.html": "c00cabb6"
+  },
+  "publications.qmd": {
+    "publications.html": "ea962270"
   }
 }

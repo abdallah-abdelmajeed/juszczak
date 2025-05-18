@@ -1,0 +1,14 @@
+---
+title: "Publications"
+---
+
+# Selected Publications
+
+Below are selected recent publications. For the full list, see the homepage or contact Prof. Juszczak.
+
+1. Antala M., Juszczak R., van der Tol Ch., Rastogi A. (2022). Impact of climate change-induced alterations in peatland vegetation phenology and composition on carbon balance. *Science of The Total Environment*, 827, 154294. [doi](https://doi.org/10.1016/j.scitotenv.2022.154294)
+2. Lembrechts, J. J., ... Juszczak R., ... Lenoir, J. (2022). Global maps of soil temperature. *Global Change Biology*. [doi](https://doi.org/10.1111/gcb.16060)
+3. Bandopadhyay S., Rastogi A., Cogliati S., Rascher U., Gabka M., Juszczak R. (2021). Can Vegetation Indices Serve as Proxies for Potential Sun-Induced Fluorescence (SIF)? *Remote Sensing*, 13, 2545. [doi](https://doi.org/10.3390/rs13132545)
+4. Harenda K., Samson M., Juszczak R., et al. (2021) Impact of atmospheric optical properties on net ecosystem productivity of peatland in Poland. *Remote Sensing*, 13, 2124. [doi](https://doi.org/10.3390/rs13112124)
+
+...and more. See homepage for full list.
