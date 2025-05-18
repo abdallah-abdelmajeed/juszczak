@@ -1,9 +1,7 @@
-![Quarto](https://img.shields.io/badge/📘_built_with-Quarto-4d77cf)
-[![Publish Action](https://github.com/niksirbi/niksirbi.github.io/actions/workflows/render_and_deploy.yaml/badge.svg)](https://github.com/niksirbi/niksirbi.github.io/actions/workflowsrender_and_deploy.yaml)
-[![View Site](https://img.shields.io/badge/View-Site-brightgreen)](https://nikosirmpilatze.com)
+![Hugo](https://img.shields.io/badge/📘_built_with-Hugo-ff4088)
 
-# My personal website
+# Prof. Dr hab. inż. Radosław Juszczak - Academic Website
 
-This is a [Quarto website](https://quarto.org/docs/websites).
+This is a [Hugo website](https://gohugo.io/) using the [Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv).
 
-The initial version was made following [this guide](https://ucsb-meds.github.io/creating-quarto-websites/).
+The site was migrated from Quarto to Hugo to better showcase Prof. Juszczak's research on peatlands and climate change.
